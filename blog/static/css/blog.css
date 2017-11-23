@@ -1,3 +1,5 @@
+@font-face{font-family:'Koverwatch'; src:url('./koverwatch.ttf')}
+
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
@@ -19,7 +21,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Koverwatch';
 }
 
 .date {
